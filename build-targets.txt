@@ -1,0 +1,2 @@
+cm_ace-userdebug
+cm_bravo-userdebug
